@@ -48,6 +48,18 @@ style.css
 script.js
 ```
 
+## Topics
+
+```
+html
+css
+javascript
+ecommerce
+perfume
+portfolio
+responsive-design
+```
+
 ## Author
 Rui Winterstar
 aka Caroline Abellouisa Br. Sinulingga
