@@ -6,10 +6,6 @@ Xiangwei is a luxury perfume boutique website developed using HTML, CSS, and Jav
 
 🌐 https://xiangwei.my.id
 
-## Github Pages
-
-https://ruiwinterstar.github.io/xiangwei-perfume-boutique/
-
 ## Features
 
 - Luxury landing page
@@ -48,18 +44,6 @@ style.css
 script.js
 ```
 
-## Topics
-
-```
-html
-css
-javascript
-ecommerce
-perfume
-portfolio
-responsive-design
-```
-
 ## Author
+
 Rui Winterstar
-aka Caroline Abellouisa Br. Sinulingga

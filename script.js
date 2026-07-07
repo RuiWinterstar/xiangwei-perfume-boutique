@@ -11,7 +11,7 @@ const products = [
         notes: "Blackcurrent • Plum • Musk",
         price: "Rp118.000",
         image: "assets/perfumes/implora-magnificent.webp",
-        link: "products/magnificent.html"
+        link: "products/magnificent-pour-femme.html"
     },
     {
         name: "Implora Pink Ribbon",
@@ -25,35 +25,35 @@ const products = [
         notes: "Cherry Blossom • Mandarin • Jasmine",
         price: "Rp53.000",
         image: "assets/perfumes/nco-amethyst.webp",
-        link: "products/nco-amethyst.html"
+        link: "products/amethyst.html"
     },
     {
         name: "N°CO Bloomique",
         notes: "Bergamot • Tangerine • Vanilla",
         price: "Rp53.000",
         image: "assets/perfumes/nco-bloomique.webp",
-        link: "products/nco-bloomique.html"
+        link: "products/bloomique.html"
     },
     {
         name: "N°CO Lunera",
         notes: "Saffron • Raspberry • Rose",
         price: "Rp53.000",
         image: "assets/perfumes/nco-lunera.webp",
-        link: "products/nco-lunera.html"
+        link: "products/lunera.html"
     },
     {
         name: "N°CO Onyx",
         notes: "Passionfruit • Rose • Tonka Bean",
         price: "Rp53.000",
         image: "assets/perfumes/nco-onyx.webp",
-        link: "products/nco-onyx.html"
+        link: "products/onyx.html"
     },
     {
         name: "N°CO Snowflake",
         notes: "Pink Grapefruit • Jasmine • Vanilla",
         price: "Rp53.000",
         image: "assets/perfumes/nco-snowflake.webp",
-        link: "products/nco-snowflake.html"
+        link: "products/snowflake.html"
     }
 ];
 
