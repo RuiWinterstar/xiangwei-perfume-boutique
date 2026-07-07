@@ -5,6 +5,7 @@ Xiangwei is a luxury perfume boutique website developed using HTML, CSS, and Jav
 ## Live Demo
 
 🌐 https://xiangwei.my.id
+🌐 https://ruiwinterstar.github.io/xiangwei-perfume-boutique/
 
 ## Features
 
